@@ -1,8 +1,5 @@
 # Desafio-Analise-de-Sentimentos-no-Azure-AI
-Este laboratório tem como objetivo praticar e aprofundar o uso das ferramentas Azure Speech Studio e Language Studio, focando na análise de fala e linguagem natural.
-# Laboratório de IA do Azure: Análise de Fala e Linguagem
-
-Este repositório documenta a exploração e os aprendizados obtidos com as ferramentas de Inteligência Artificial da Microsoft Azure, especificamente o **Azure Speech Studio** e o **Azure Language Studio**. O projeto foi desenvolvido como parte de um desafio prático da [Digital Innovation One (DIO)](https://www.dio.me/).
+Este laboratório tem como objetivo praticar e aprofundar o uso das ferramentas Azure Speech Studio e Language Studio, focando na análise de fala e linguagem natural.O projeto foi desenvolvido como parte de um desafio prático da [Digital Innovation One (DIO)](https://www.dio.me/).
 
 ## 🎯 Objetivo
 
