@@ -21,18 +21,9 @@ Ao concluir este desafio, fui capaz de:
 * **Git & GitHub:** Para controle de versão e hospedagem do projeto.
 * **Markdown:** Para a criação e formatação desta documentação.
 
-## 📂 Estrutura do Repositório
+## 📂 Imagens do Projeto
+```
 
-```
-/
-├── anotacoes/
-│   ├── speech_studio.md
-│   └── language_studio.md
-├── resultados/
-│   ├── exemplo_analise_sentimento.json
-│   └── exemplo_transcricao.txt
-└── README.md
-```
 
 * **README.md:** Este arquivo, que apresenta uma visão geral do projeto.
 
