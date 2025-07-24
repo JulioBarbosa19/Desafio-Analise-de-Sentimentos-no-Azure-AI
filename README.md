@@ -22,7 +22,7 @@ Ao concluir este desafio, fui capaz de:
 * **Markdown:** Para a criação e formatação desta documentação.
 
 ## 📂 Imagens do Projeto
-```
+![Language Studio](./img/language-studio.png)
 
 
 * **README.md:** Este arquivo, que apresenta uma visão geral do projeto.
