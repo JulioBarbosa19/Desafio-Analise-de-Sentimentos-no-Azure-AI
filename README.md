@@ -22,10 +22,11 @@ Ao concluir este desafio, fui capaz de:
 * **Markdown:** Para a criação e formatação desta documentação.
 
 ## 📂 Imagens do Projeto
-![Language Studio](./img/language-studio.png)
 
+<img width="1786" height="951" alt="language-studio" src="https://github.com/user-attachments/assets/8ac26cbd-4372-4d00-941d-9c3bf4264a88" />
 
-* **README.md:** Este arquivo, que apresenta uma visão geral do projeto.
+<img width="1887" height="816" alt="speech-studio" src="https://github.com/user-attachments/assets/c03f03f5-6761-4af2-b37e-c014ab672664" />
+
 
 
 
